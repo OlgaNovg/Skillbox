@@ -39,5 +39,3 @@ if __name__ == "__main__":
     print(HIDDEN_NUMBER)
     guess_number()
     print(HIDDEN_NUMBER)
-
-    check_number(2563)
